@@ -11,6 +11,7 @@
 * [ссылка](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) на документацию по форматированию текста
 
 * [Демо по моторам.pdf](https://github.com/zyryanov-and-co/.github/files/12504414/default.pdf)
+* Дискорд приглашение [ссылка](https://discord.gg/VZuQJvKVak)
 
 <!--
 
