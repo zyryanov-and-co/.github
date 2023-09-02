@@ -6,11 +6,11 @@
 ### Репо проекта [coc-v1](https://github.com/zyryanov-and-co/coc-v1)
 
 ### Полезные ссылки
-Отсюда можно спиздить референс
+* Отсюда можно спиздить референс:
 
 [европривод](https://evroprivod.ru/catalogue/f_fa/descriptions)
 
-[ссылка](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) на документацию по форматированию текста
+* [ссылка](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) на документацию по форматированию текста
 <!--
 
 **Here are some ideas to get you started:**
