@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Доска задач [coc-v1](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+### [Репо проекта ](https://github.com/zyryanov-and-co/coc-v1)
 <!--
 
 **Here are some ideas to get you started:**
