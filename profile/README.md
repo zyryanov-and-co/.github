@@ -5,7 +5,8 @@
 
 ### Полезные ссылки
 Отсюда можно спиздить референс:
-[Референс](https://evroprivod.ru/catalogue/f_fa/descriptions)
+
+[европривод](https://evroprivod.ru/catalogue/f_fa/descriptions)
 <!--
 
 **Here are some ideas to get you started:**
