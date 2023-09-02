@@ -5,8 +5,8 @@
 
 
 
-### Доска задач [coc-v1](https://github.com/orgs/zyryanov-and-co/projects/1)
-### Репо проекта [coc-v1](https://github.com/zyryanov-and-co/coc-v1)
+### ![to-do-list](https://github.com/zyryanov-and-co/.github/assets/99914331/281f6910-c45c-44f7-ba39-b80f880ad16b) Доска задач [coc-v1](https://github.com/orgs/zyryanov-and-co/projects/1)
+### ![repository](https://github.com/zyryanov-and-co/.github/assets/99914331/53920bf7-3523-4c2c-801d-0686dc3abb34) Репо проекта [coc-v1](https://github.com/zyryanov-and-co/coc-v1)
 
 ### Полезности
 * Референс - [европривод](https://evroprivod.ru/catalogue/f_fa/descriptions)
