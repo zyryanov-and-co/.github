@@ -1,6 +1,6 @@
 # Основные ссылки
 
-## COC
+## _COC-V1_
 
 ### Доска задач [coc-v1](https://github.com/orgs/zyryanov-and-co/projects/1)
 ### Репо проекта [coc-v1](https://github.com/zyryanov-and-co/coc-v1)
