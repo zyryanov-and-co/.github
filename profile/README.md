@@ -1,6 +1,8 @@
 # Основные ссылки
 
-## _COC-V1_
+## ![computer (1)](https://github.com/zyryanov-and-co/.github/assets/99914331/ff758632-3cf6-48be-9cd1-4f8ca28ad77f) _COC-V1_
+
+
 
 ### Доска задач [coc-v1](https://github.com/orgs/zyryanov-and-co/projects/1)
 ### Репо проекта [coc-v1](https://github.com/zyryanov-and-co/coc-v1)
